@@ -1,0 +1,13 @@
+# C build output
+*.o
+*.obj
+*.exe
+*.out
+/build/
+
+# Local assignment data/output
+**/data/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
